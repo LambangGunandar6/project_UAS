@@ -1,3 +1,12 @@
+
+# Video Tutorial
+
+![Video Tutorial](https://youtube.com/watch?v=Gqbb-6pDYvc&si=EnSIkaIECMiOmarE)
+
+# Document oenjelasan Aplikasi
+
+![Penjelasan Dalam Bentuk Dokumen](projek_UAS/PenjelasanProgram_LambangGunandar.pdf)
+
 # Program Daftar Nilai Mahasiswa
 
 Source Code
